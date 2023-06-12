@@ -6,4 +6,4 @@ Run command
 ```time python3 social_distance_detector.py --input pedestrians2.mp4 --output output.avi --display 1```
 
 
-Put your Yolo and CoCo datasets in a folder "yolo-coco"
+Put your Yolo weights and CoCo datasets in a folder "yolo-coco"
